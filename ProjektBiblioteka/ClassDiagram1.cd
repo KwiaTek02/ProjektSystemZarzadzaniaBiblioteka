@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProjektBiblioteka.Program" Collapsed="true">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAQACCAAAAgCEACAAIAiAABAAAAAAAAAEBAAAIDA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektBiblioteka.Builders.BookBuilder" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAQgFAYAYRAAAAAACAAIABAACgAAQAABAAAAAQAA=</HashCode>
+      <FileName>Projekt\Builders\BookBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProjektBiblioteka.Builders.ReaderBuilder" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAACAAAAEEAAAAAAIAgAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Projekt\Builders\ReaderBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProjektBiblioteka.Managers.LibraryManager" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAKAQAiCAAQAgCGACCAIAACBAgAEAAQABAUAAAAABA=</HashCode>
+      <FileName>Projekt\Managers\LibraryManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektBiblioteka.Model.Book" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAQAAAAQAAAAAAAAAEIAAAAA=</HashCode>
+      <FileName>Projekt\Model\Book.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProjektBiblioteka.Model.Loan">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAACgAAAEAAABAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Projekt\Model\Loan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektBiblioteka.Model.Reader" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAEAAAAAACAAAAAEAAAAAAAgAAAAAQ=</HashCode>
+      <FileName>Projekt\Model\Reader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektBiblioteka.Projekt.Model.LibraryItem" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAEAAgAAAAQAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Projekt\Model\LibraryItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektBiblioteka.Projekt.Model.Person" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Projekt\Model\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ProjektBiblioteka.Interfaces.IBookBuilder" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAEAQAYQAAAAAAAAAAABAACgAAAAABAAAAAQAA=</HashCode>
+      <FileName>Projekt\Interfaces\IBookBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProjektBiblioteka.Interfaces.ILibraryItem" Collapsed="true">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAQAAAAAAAAAAAAAAEIAAAAA=</HashCode>
+      <FileName>Projekt\Interfaces\ILibraryItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProjektBiblioteka.Interfaces.ILoanable" Collapsed="true">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Projekt\Interfaces\ILoanable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProjektBiblioteka.Interfaces.IReaderBuilder" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAEAAAAAAAAgAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Projekt\Interfaces\IReaderBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ProjektBiblioteka.Enums.Categories">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Projekt\Enums\Categories.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
