@@ -4,7 +4,6 @@ using System.Linq;
 using ProjektBiblioteka.Enums;
 using ProjektBiblioteka.Interfaces;
 using ProjektBiblioteka.Model;
-// ReSharper disable NotAccessedField.Local
 
 namespace ProjektBiblioteka.Builders
 {

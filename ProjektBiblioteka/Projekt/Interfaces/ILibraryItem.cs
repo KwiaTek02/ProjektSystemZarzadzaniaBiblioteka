@@ -1,6 +1,6 @@
 ﻿using ProjektBiblioteka.Model;
 using System;
-// ReSharper disable UnusedMemberInSuper.Global
+
 
 namespace ProjektBiblioteka.Interfaces
 {

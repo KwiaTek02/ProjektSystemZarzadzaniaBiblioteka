@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using ProjektBiblioteka.Projekt.Model;
-// ReSharper disable IdentifierTypo
-// ReSharper disable UnusedMember.Global
 
 namespace ProjektBiblioteka.Model
 {

@@ -2,8 +2,6 @@
 using System;
 using System.Collections.Generic;
 using ProjektBiblioteka.Enums;
-// ReSharper disable UnusedMemberInSuper.Global
-// ReSharper disable UnusedMember.Global
 
 namespace ProjektBiblioteka.Interfaces
 {
